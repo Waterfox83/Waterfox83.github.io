@@ -172,3 +172,45 @@ footer p {
 .photo-item:hover img {
     transform: scale(1.02);
 }
+.contact-content {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+.contact-text-box {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 30px;
+    width: 60%;
+    margin: 0 auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.contact-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 20px;
+}
+.contact-text {
+    font-family: 'Playfair Display', serif;
+    font-size: 0.95rem; /* Reduced font size */
+    color: #333;
+    line-height: 1.6;
+    text-align: left;
+}
+.contact-text p {
+    margin-bottom: 15px;
+}
+.section-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem; /* Slightly reduced size */
+    font-weight: 400; /* Removed bold */
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.contact-details {
+    text-align: center;
+    font-style: normal; /* Removed italics */
+}
