@@ -1,12 +1,12 @@
 const imagePaths = [
-    'https://photosblob.blob.core.windows.net/photos/photo1.jpg',
-    'https://photosblob.blob.core.windows.net/photos/photo2.jpg',
-    'https://photosblob.blob.core.windows.net/photos/photo3.jpg',
-    'https://photosblob.blob.core.windows.net/photos/photo4.jpg',
-    'https://photosblob.blob.core.windows.net/photos/photo5.jpg',
-    'https://photosblob.blob.core.windows.net/photos/photo6.jpg',
-    'https://photosblob.blob.core.windows.net/photos/photo7.jpg',
-    'https://photosblob.blob.core.windows.net/photos/photo8.jpg',
-    'https://photosblob.blob.core.windows.net/photos/photo9.jpg'
+    './images/photo1.jpg',
+    './images/photo2.jpg',
+    './images/photo3.jpg',
+    './images/photo4.jpg',
+    './images/photo5.jpg',
+    './images/photo6.jpg',
+    './images/photo7.jpg',
+    './images/photo8.jpg',
+    './images/photo9.jpg'
     // Add more image paths as needed
 ];

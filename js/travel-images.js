@@ -1,14 +1,14 @@
 const imagePaths = [
-    'https://photosblob.blob.core.windows.net/photos/travel/photo1.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo2.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo3.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo4.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo5.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo6.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo7.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo8.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo9.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo10.jpg',
-    'https://photosblob.blob.core.windows.net/photos/travel/photo11.jpg'
+    './images/travel/photo1.jpg',
+    './images/travel/photo2.jpg',
+    './images/travel/photo3.jpg',
+    './images/travel/photo4.jpg',
+    './images/travel/photo5.jpg',
+    './images/travel/photo6.jpg',
+    './images/travel/photo7.jpg',
+    './images/travel/photo8.jpg',
+    './images/travel/photo9.jpg',
+    './images/travel/photo10.jpg',
+    './images/travel/photo11.jpg'
     // Add more wildlife image paths as needed
 ];
